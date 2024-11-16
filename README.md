@@ -5,5 +5,5 @@
 - period : 3 months
 - position :  PG / Front
 - work contribution : 90%
-- main function : Acquisition and registration of real estate information
+- main function : A system for removing and checking green algae in the river through a robot
 - main language : Flutter
