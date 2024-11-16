@@ -1,0 +1,4 @@
+analyzer:
+  errors:
+    unrelated_type_equality_checks: ignore
+include: package:flutter_lints/flutter.yaml
